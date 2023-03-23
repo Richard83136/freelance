@@ -1,0 +1,43 @@
+body{
+  font-family: 'Prompt', sans-serif;
+  color:black;
+  text-align:center;
+
+}
+.parallax {
+  /* Votre image */
+
+
+  /* Une hauteur spécifique */
+  height: auto;
+
+  /* L'effet de parallax */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nav-link:hover{
+  background-color: bisque;
+}
+.nav-link{
+  color:black;
+  font-size: 15px;
+}
+.dropdown-menu:hover{
+  background-color: bisque;
+}
+
+.footer{
+  background-color: rgb(44,78,106);
+  padding-top: 15px;
+  padding-bottom:15px;
+}
+span a{
+  text-decoration: none;
+  color: white;
+}
+.fin{
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+}

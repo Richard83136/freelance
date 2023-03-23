@@ -1,0 +1,70 @@
+body{
+  font-family: 'Prompt', sans-serif;
+  color:white;
+  text-align:center;
+  margin-top:2%;
+}
+.parallax {
+  /* Votre image */
+
+
+  /* Une hauteur spécifique */
+  height: auto;
+
+  /* L'effet de parallax */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nav-link:hover{
+  background-color: bisque;
+  color:black;
+}
+.nav-link{
+  color:white;
+  font-weight:bold;
+
+}
+.dropdown-menu:hover{
+  background-color: bisque;
+}
+.barre
+{
+  background-color: rgb(63, 59, 66);
+  opacity:0.5;
+  width:100%;
+  padding: 1%;
+  font-size: 15px;
+  font-weight:bold;
+  color:white;
+}
+.footer{
+  background-color: rgb(44,78,106);
+  padding-top: 15px;
+  padding-bottom:15px;
+}
+span a{
+  text-decoration: none;
+  color: white;
+}
+.fin{
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+}
+h3 {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}

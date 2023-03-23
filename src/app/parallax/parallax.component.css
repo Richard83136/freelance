@@ -1,0 +1,157 @@
+body{
+  font-family: 'Prompt', sans-serif;
+  color:white;
+  text-align:center;
+
+}
+.nav-link:hover{
+  background-color: bisque;
+}
+.nav-link{
+  color:black;
+  font-weight: bold;
+  font-size: large;
+}
+.dropdown-menu:hover{
+  background-color: bisque;
+}
+.parallax {
+  /* Votre image */
+
+
+  /* Une hauteur spécifique */
+  height: 1000px;
+
+  /* L'effet de parallax */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  color: white;
+  font-size: 75px;
+}
+.parallax1 {
+  /* Votre image */
+
+
+  /* Une hauteur spécifique */
+  height: 950px;
+
+  /* L'effet de parallax */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+.parallax2 {
+  /* Votre image */
+
+
+  /* Une hauteur spécifique */
+  height: 950px;
+
+  /* L'effet de parallax */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.parallax3 {
+  /* Votre image */
+
+
+  /* Une hauteur spécifique */
+  height: 950px;
+
+  /* L'effet de parallax */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax4 {
+  /* Votre image */
+
+
+  /* Une hauteur spécifique */
+  height: 950px;
+
+  /* L'effet de parallax */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax5 {
+  /* Votre image */
+
+
+  /* Une hauteur spécifique */
+  height: 950px;
+
+  /* L'effet de parallax */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax6 {
+  /* Votre image */
+
+
+  /* Une hauteur spécifique */
+  height: 950px;
+
+  /* L'effet de parallax */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax7 {
+  /* Votre image */
+
+
+  /* Une hauteur spécifique */
+  height: 950px;
+
+  /* L'effet de parallax */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax8 {
+  /* Votre image */
+
+
+  /* Une hauteur spécifique */
+  height: 950px;
+
+  /* L'effet de parallax */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.footer{
+  background-color: rgb(44,78,106);
+  padding-top: 15px;
+  padding-bottom:15px;
+}
+span a{
+  text-decoration: none;
+  color: white;
+}
+.fin{
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+}
